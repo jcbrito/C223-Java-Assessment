@@ -17,8 +17,8 @@ public class SummativeSums {
                         140, 150, 160, 170, 180, 190, 200, -99};
         
         System.out.println("Array 1 has a sum of: " + sumArray(arr1));
-        System.out.println("Array 1 has a sum of: " + sumArray(arr2));
-        System.out.println("Array 1 has a sum of: " + sumArray(arr3));
+        System.out.println("Array 2 has a sum of: " + sumArray(arr2));
+        System.out.println("Array 3 has a sum of: " + sumArray(arr3));
         
     }
     
